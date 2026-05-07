@@ -1,4 +1,5 @@
 # SubDirX — Web Reconnaissance Suite
+![SubDirX Dashboard](dashboard.png)
 
 > A full-stack, real-time web reconnaissance tool for subdomain enumeration, directory brute-forcing, and DNS intelligence gathering — built with Python, Flask, and AsyncIO.
 
